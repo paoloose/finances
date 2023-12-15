@@ -27,15 +27,16 @@ them, getting insights, reports and planning ahead.
 
 Desired:
 
-- BCP
+- BCP + Yape
 - Interbank
 - PayPal
 - Cash
 
 ## What can I do with a source?
 
-- Must have getting started tutorial
+- Must have a getting started tutorial
 - Must define authentication methods
-- Get your balance
-- List your operations
+- Must allow you to get your balance and list your past operations
+- You'll be able to tag and categorize your payments
+- Get a monthly report for that single source
 - Register alerts
